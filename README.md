@@ -1,6 +1,9 @@
 # JFlex - runnable with IntelliJ
 This project offers an executable version of "ÜB-Praxis-JFlex Scanner for AS-Leer". 
 Further tasks, solutions and packages have to be inserted with the course of the lecture itself.
+
+## Setup
+It might occur that you have to add the framework support for Maven and define the project SDK.
 To generate a lexer file, you must specify it in the POM.
 ```xml
     <configuration>
